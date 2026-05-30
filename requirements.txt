@@ -1,0 +1,4 @@
+streamlit
+midiutil
+numpy
+matplotlib
