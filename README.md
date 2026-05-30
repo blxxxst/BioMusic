@@ -20,7 +20,7 @@
 
 ## 在线演示
 
-[🚀 点击试用（待部署）](https://share.streamlit.io/)
+[🚀 点击试用](https://biomusic-v7flfv8nqzdyktpcjq4mec.streamlit.app/)
 
 ## 技术栈
 
